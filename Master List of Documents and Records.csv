@@ -1,0 +1,11 @@
+DOCUMENT NAME (Hyperlink to Electronic file);QA;REV / DATE;AUTHORIZED BY;HARD COPY LOCATION;Electronic location;Minimum RETENTION PERIOD;Retention of Obselete documents;Server location;Original file location;;Revision History(quality_mamagemen\revision history);Controlled file location;
+Position Descriptions;;;;;;;;;;;;;
+Logistics;no;2012-12-15;CFO;;Company Server;FOREVER;NONE;QA SERVER;human resources - logistics.rtf;;1st RELEASE;human resources - logistics.xps;
+Sales Manager;no;2002-06-15;CEO;;Company Server;FOREVER;NONE;QA SERVER;human resources - sales manager.rtf;;3rd RELEASE;human resources - sales manager.xps;
+Programmer;no;2003-04-13;CEO;;Company Server;FOREVER;NONE;QA SERVER;human resources - software.rtf;;DRAFT;human resources - software.xps;
+;;;;;;;;;;;;;
+Process Procedures;;;;;;;;;;;;;
+ISO 9001 Certificate;yes;2001-01-11;CEO;;Company Website;1 YEAR;YES;SERVER;http://www.iso.org/iso/draft_template_for_iso_standardv2.doc;;TEST;;
+;;;;;;;;;;;;;
+Software Instructions;N/A;N/A;N/A;;CLOUD;;;;Document Viewer Install Instructions.doc;;;Document Viewer Install Instructions.xps;
+Example Link to Folder;;;;;C:\;;;;C:\;;;;
